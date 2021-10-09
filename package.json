@@ -1,0 +1,12 @@
+{
+  "name": "local-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.rys.cn:f2e/basic/desktop/local-proxy.git",
+  "author": "Wang Bo <ralwayne@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/http-proxy": "^1.17.7",
+    "http-proxy": "^1.18.1"
+  }
+}
